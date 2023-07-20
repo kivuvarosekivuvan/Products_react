@@ -1,5 +1,4 @@
 
-
 import { useParams, Link } from 'react-router-dom';
 import React,{ useState, useEffect, useCallback } from 'react';
 import './style.css'
@@ -26,9 +25,9 @@ const Product = () => {
   return (
     <>
    
-      <h1> {product.title} </h1>
       <div>
-       
+      <h1 id='name'> {product.title} </h1>
+      <img className="image" alt="" src={product.image} />
         <p>DESCRIPTION: {product.description}</p>
         <p>{product.price} ksh</p>
       </div>

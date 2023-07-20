@@ -4,6 +4,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
+    background: rgb(223, 223, 252);
   }
   
   .form-container {

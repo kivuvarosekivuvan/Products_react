@@ -28,7 +28,6 @@ const Login = () => {
       const result = await response.json();
       console.log(result);
 
-      // Navigate to the desired page after successful login
       navigate('/products');
     } catch (error) {
       console.log(error.message);
