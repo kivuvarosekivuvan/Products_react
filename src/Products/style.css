@@ -2,11 +2,26 @@ body{
   background: rgb(223, 223, 252);
 
 }
+
+.product {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.content {
+  width: calc(33.33% - 20px);
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  box-sizing: border-box; 
+  
+}
 .title {
     font-size: 24px;
     color: orange;
     text-align: center;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
   }
   
   .products-container {
@@ -99,6 +114,6 @@ body{
     margin-top: 100px;
   }
   .heading{
-    margin-top: 220%;
+    margin-top: 2800px;
     font-size: 50px;
   }
