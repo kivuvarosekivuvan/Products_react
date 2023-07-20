@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kivuvarosekivuvan/reactAssignment/static/css/main.d3c31e69.css",
+    "main.js": "/kivuvarosekivuvan/reactAssignment/static/js/main.e350dfdd.js",
+    "static/js/787.9da8a9c9.chunk.js": "/kivuvarosekivuvan/reactAssignment/static/js/787.9da8a9c9.chunk.js",
+    "index.html": "/kivuvarosekivuvan/reactAssignment/index.html",
+    "main.d3c31e69.css.map": "/kivuvarosekivuvan/reactAssignment/static/css/main.d3c31e69.css.map",
+    "main.e350dfdd.js.map": "/kivuvarosekivuvan/reactAssignment/static/js/main.e350dfdd.js.map",
+    "787.9da8a9c9.chunk.js.map": "/kivuvarosekivuvan/reactAssignment/static/js/787.9da8a9c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c31e69.css",
+    "static/js/main.e350dfdd.js"
+  ]
+}
